@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CopaAmerica2019</string>
+    <string name="groups_button">Groups</string>
+    <string name="keys_button">Brackets</string>
+    <string name="results_button">Results</string>
+    <string name="Consult_player_button">Consult Player</string>
 </resources>
