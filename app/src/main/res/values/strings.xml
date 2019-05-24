@@ -4,4 +4,5 @@
     <string name="keys_button">Brackets</string>
     <string name="results_button">Results</string>
     <string name="Consult_player_button">Consult Player</string>
+    <string name="Matches_today_label">Matches for Today</string>
 </resources>
